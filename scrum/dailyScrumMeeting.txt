@@ -1,0 +1,66 @@
+# Fill in, commit and push each day.
+
+Oct 6, 2016
+	Yesterday : 
+		I completed the initial JugPuzzle Model classes
+	
+	Today     : Add Scrum framework documents to project. Proofread 
+		        and post the assignment. Send message to all students
+		        about the availability of the assignment.
+	
+	Obstacles : 
+
+Oct 7, 2016
+	Yesterday : No work done.
+	Today     : No work done. 
+	Obstacles :
+	
+Oct 8, 2016
+	Yesterday : No work done. 
+	Today     : No work done. 
+	Obstacles :
+	
+Oct 9, 2016
+	Yesterday : No work done. 
+	Today     : Review assignment, get an idea of what needs to be accomplished. 
+	Obstacles : Understanding GUI grid layout.
+	
+Oct 10, 2016
+	Yesterday : I got a rough GUI done.
+	Today     : A more complete, visually appealing GUI.
+	Obstacles : Understanding JugPuzzleGUI class, GUI, Swing. 
+	
+Oct 11, 2016
+	Yesterday : I got a better looking GUI done.
+	Today     : To complete some of my JugClassGUIController.
+	Obstacles : I had difficulties understanding the ActionListener, and getting the buttons to respond to being pressed.
+	
+Oct 12, 2016
+	Yesterday : Completed most of GUI.
+	Today     : Some of the buttons function. 
+	Obstacles : Figuring out how to make the controller interact with the view. 
+	
+Oct 13, 2016
+	Yesterday : All buttons work as they should, game play is fine.
+	Today     : No work done. 
+	Obstacles : 
+	
+Oct 14, 2016
+	Yesterday : No work done. 
+	Today     : Fix code, improve GUI. Player can play again after game is over. 
+	Obstacles : Understanding some Swing components. 
+	
+Oct 15, 2016
+	Yesterday : Player can play again after game is over. 
+	Today     : Commit and push by tonight at midnight for ontime submission. New game and quit options added. Improved GUI. 
+	Obstacles : Understanding which layout is best for which panel. 
+
+Oct 16, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Oct 17, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for late submission.
+	Obstacles :
